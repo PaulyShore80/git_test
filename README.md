@@ -1,0 +1,1 @@
+This is Shaun McClure's first git project
